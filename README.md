@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Caroline Chan, an iOS enthusiast. Currently studying Computer Science in Universitas Gadjah Mada.
-- 👩🏻‍💻 I'm currently working as a Freelance iOS Developer and a Software Development Engineer in Test
-- 🌱 I'm currently learning on iOS Development and working on personal projects
+I'm Caroline Chan, Fresh Graduate of Computer Science at Universitas Gadjah Mada.
+- 👩🏻‍💻 I'm currently working as a Mobile Developer (Flutter, Swift)
+- 🌱 I'm currently enrolled in Apple Developer Academy as an iOS Developer
 - 🙌 Looking to collaborate with someone on any projects
 
 ### Contact me here 📫
